@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    font-family: 'Roboto Slab', serif;;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-field{
+    margin-bottom: 10px;
+}
+
+.btn{
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
